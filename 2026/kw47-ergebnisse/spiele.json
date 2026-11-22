@@ -1,0 +1,72 @@
+[
+  {
+    "datum": "2026-11-18",
+    "zeit": "19:00",
+    "team": "A-Jugend",
+    "wettbewerb": "Kreisstaffel",
+    "art": "ME",
+    "heim": "SGM FV Schelklingen-Hausen",
+    "gast": "SGM SG Dettingen II / SCHWARZ|WEISS Donau",
+    "tore_heim": 8,
+    "tore_gast": 1,
+    "status": null,
+    "ort": "Rasenplatz, Längental-SF, Im Längental, 89601 Schelklingen",
+    "url": "https://www.fussball.de/spiel/sgm-fv-schelklingen-hausen-sgm-sg-dettingen-ii-schwarz%7Cweiss-donau/-/spiel/031K65LTR4000000VS5489BTVSRD0UH9"
+  },
+  {
+    "datum": "2026-11-21",
+    "zeit": "10:00",
+    "team": "B-Jugend 9er",
+    "wettbewerb": "Kreisstaffel",
+    "art": "ME",
+    "heim": "SGM SV Pappelau-Beiningen",
+    "gast": "SGM FC Schelklingen-Alb / Schmiechtal / Schelklingen-Hausen 9er",
+    "tore_heim": 0,
+    "tore_gast": 7,
+    "status": null,
+    "ort": "Rasenplatz, Beiningen, Hauptspielfeld, Pappelauer Str. 40, 89143 Blaubeuren",
+    "url": "https://www.fussball.de/spiel/sgm-sv-pappelau-beiningen-sgm-fc-schelklingen-alb-schmiechtal-schelklingen-hausen-9er/-/spiel/031K87B4LO000000VS5489BTVSRD0UH9"
+  },
+  {
+    "datum": "2026-11-21",
+    "zeit": "12:15",
+    "team": "Reserve",
+    "wettbewerb": "Kreisliga A; Kreisliga",
+    "art": "ME",
+    "heim": "FV Schelklingen-Hausen",
+    "gast": "SGM Schmiechtal/Alb",
+    "tore_heim": 5,
+    "tore_gast": 2,
+    "status": null,
+    "ort": "Rasenplatz, Staudenweg-SF, Staudenweg, 89601 Schelklingen",
+    "url": "https://www.fussball.de/spiel/fv-schelklingen-hausen-sgm-schmiechtal-alb/-/spiel/031DEH989G000000VS5489BTVUS470OH"
+  },
+  {
+    "datum": "2026-11-21",
+    "zeit": "14:30",
+    "team": "Herren",
+    "wettbewerb": "Kreisliga A; Kreisliga",
+    "art": "ME",
+    "heim": "FV Schelklingen-Hausen",
+    "gast": "SGM Schmiechtal/Alb",
+    "tore_heim": 0,
+    "tore_gast": 0,
+    "status": null,
+    "ort": "Rasenplatz, Staudenweg-SF, Staudenweg, 89601 Schelklingen",
+    "url": "https://www.fussball.de/spiel/fv-schelklingen-hausen-sgm-schmiechtal-alb/-/spiel/031CEQ74SC000000VS5489BUVUR5FS5A"
+  },
+  {
+    "datum": "2026-11-22",
+    "zeit": null,
+    "team": "C-Jugend",
+    "wettbewerb": "Kreisstaffel",
+    "art": "ME",
+    "heim": "SGM FV Schelklingen-Hausen",
+    "gast": "spielfrei",
+    "tore_heim": null,
+    "tore_gast": null,
+    "status": null,
+    "ort": null,
+    "url": ""
+  }
+]
